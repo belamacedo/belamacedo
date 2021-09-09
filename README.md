@@ -2,7 +2,6 @@
 
 - 🔭 Estudando para ser desenvolvedora Front-End
 - 🌱 Aprendendo Javascript
-
 <div>
   <a href="https://github.com/belamacedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belamacedo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
