@@ -4,8 +4,10 @@
 - 🤓 Aprendendo React
 <div>
   <a href="https://github.com/belamacedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belamacedo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-</div>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belamacedo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belamacedo&layout=compact&theme=omni&include_all_commits=true&count_private=true"/>
+</div>
+  
 <div style="display: inline_block"><br> 
    <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Isa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
