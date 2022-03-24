@@ -4,8 +4,8 @@
 - 🤓 Aprendendo React
 <div>
   <a href="https://github.com/belamacedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belamacedo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belamacedo&layout=compact&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belamacedo&theme=omni&layout=compact&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belamacedo&layout=compact&theme=omni&include_all_commits=true&count_private=true"/>
 </div>
   
 <div style="display: inline_block"><br> 
