@@ -1,4 +1,4 @@
-## Oiii eu sou a Isabela Macedo, desenvolvedora Front-End! :) xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+## Oiii eu sou a Isabela Macedo, desenvolvedora Front-End! :) xxxxxxxxxxxxxx
 <div align="center">
   <a href="https://github.com/belamacedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belamacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
