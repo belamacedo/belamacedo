@@ -1,7 +1,7 @@
 ## Oiiie, eu sou a Isabela Macedo, desenvolvedora Front-End! :) xxxxxxxxxxxxxx
 <div align="left">
   <a href="https://github.com/belamacedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belamacedo&layout=compact&langs_count=7&theme=dracula"/>
+   <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belamacedo&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>  
 <div style="display: inline_block"><br> 
    <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
